@@ -2,9 +2,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
-import { AppProvider } from './contexts/AppContext';
-import { ToastProvider } from './contexts/ToastContext';
-import { DataProvider } from './contexts/DataContext';
+import { AppProvider } from "./contexts/AppContext";
+import { DataProvider } from "./contexts/DataContext";
+import { ToastProvider } from "./contexts/ToastContext";
+import "./index.css";
 
 const rootElement = document.getElementById('root');
 if (!rootElement) {
