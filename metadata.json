@@ -1,0 +1,5 @@
+{
+  "name": "SGMI 2.0 - Gestão de Manutenção Inteligente",
+  "description": "Sistema robusto de controle de manutenção com Banco de Dados Relacional, Automação de Estoque via Triggers e Conformidade IATF 16949.",
+  "requestFramePermissions": []
+}
